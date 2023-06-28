@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lilacmood
+- 👀 I’m interested in JS.
+- 🌱 I’m currently learning JS.
+- 💞️ I’m looking to collaborate on EPAM.
+- 📫 How to reach me - just write in Discord
